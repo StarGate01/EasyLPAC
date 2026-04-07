@@ -10,3 +10,4 @@ EasyLPAC
 EasyLPAC.exe
 EasyLPAC.app/
 __debug_bin*
+.direnv/
